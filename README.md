@@ -1,4 +1,4 @@
-# ⏳ ReversePomodoro
+# ⏳ Reverse Pomodoro
 
 ReversePomodoro is a twist on the classic Pomodoro productivity method:  
 **Work shorter, break longer!** 🧠
